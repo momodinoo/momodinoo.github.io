@@ -1,7 +1,5 @@
 @import url("shared_css.css");
 
-
-
 .container-flex{
     display: flex;
     justify-content: space-between;
@@ -26,4 +24,9 @@
     width:50%;
     text-align: center;
     margin:auto;
+}
+
+h1{
+    color:royalblue;
+    font-size:3em;
 }

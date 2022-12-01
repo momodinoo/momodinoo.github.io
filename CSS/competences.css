@@ -1,0 +1,48 @@
+@import url("shared_css.css");
+
+h2{
+    color:royalblue;
+    text-align: center;
+}
+
+h1{
+    font-size:3em;
+    margin-top:0%;
+    text-align: center;
+}
+
+.competences{
+    margin-bottom: 5%;
+}
+
+.container-flex{
+    display: flex;
+    justify-content: space-evenly;
+    width:100%;
+    margin-bottom:5%;
+}
+
+.container-item{
+    width:20%;
+    padding-right: 2%;
+    padding-left:2%;
+}
+
+.container-item li{
+    margin-bottom: 5%;
+    list-style: none;
+}
+
+.container-item ul{
+    margin-top: 5%;
+
+}
+
+.comp{
+    vertical-align: center;
+}
+
+.autre{
+    width:20%;
+    margin:auto;
+}
