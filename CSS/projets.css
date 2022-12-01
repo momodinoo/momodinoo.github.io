@@ -1,1 +1,33 @@
 @import url("shared_css.css");
+
+h2{
+    color:royalblue;
+    text-align: center;
+    padding-top:2%;
+}
+
+h1{
+    font-size:3em;
+    margin-top:0%;
+    text-align: center;
+}
+
+.container-item{
+    border:2px solid white;
+    width:35%;
+    border:2px solid white;
+    border-radius: 20px;
+
+    padding: 0% 2% 1%;
+    text-align:center;
+
+    margin: 3% auto auto;
+}
+
+a{
+    color: royalblue !important;
+}
+
+p > a{
+    color:white !important;
+}
