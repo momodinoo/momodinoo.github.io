@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Montserrat';
+}
+
+body{
+    background-color:black;
+    font-family: 'Montserrat';
+    color:white;
+}
+
+.navbar{
+    width:100%;
+}
+
+.navbar-flex{
+    display: flex;
+    height:10%;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.navbar-flex a {
+    text-decoration: none !important;
+    color: white !important;
+    justify-content: space-around;
+}
+
+.navbar-nav{
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.nav-item{
+    letter-spacing: 0.15em;
+    padding: 15px 0;
+    font-weight: 900;
+}
+
+.hover-underline-animation {
+    color:white;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    display: inline-block;
+    position: relative;
+}
+
+.hover-underline-animation::after {
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 4px;
+    position: absolute;
+    background: royalblue;
+    transition: width 0.4s ease 0s, left 0.3s ease 0s;
+    width: 0;
+}
+
+.hover-underline-animation:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+.footer-flex{
+    display:flex;
+    justify-content: space-evenly;
+    width:20%;
+    margin:auto;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border:3px solid white;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    color:royalblue;
+    border:3px solid royalblue;
+}
