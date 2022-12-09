@@ -63,3 +63,27 @@ h1{
     margin:auto;
     justify-content:initial !important;
 }
+
+@media screen and (max-width: 700px) {
+    .navbar-nav{
+        height:250%;
+    }
+
+    .container-flex{
+        flex-wrap:wrap;
+        gap:20px;
+    }
+
+    .container-item{
+        width:70%;
+        font-size:1.1em;
+        padding-left:5%;
+        padding-bottom: 2%;
+    }
+
+    .container-item:hover{
+        box-shadow: none;
+    }
+
+    .autre{margin-bottom: 7%;}
+}

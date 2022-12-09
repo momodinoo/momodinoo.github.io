@@ -92,3 +92,75 @@ body{
 .container-item:hover{
     box-shadow: 5px 5px 5px royalblue;
 }
+.toggle{display:none;}
+
+@media screen and (max-width: 700px) {
+    .toggle {
+        display: block;
+        font-size: 3rem;
+        cursor: pointer;
+        position: relative;
+        z-index: 20;
+        margin-left: 90%;
+        margin-top:5%;
+        margin-top: 5%;
+    }
+
+    .ouvrir {
+        display: block;
+    }
+
+    .fermer {
+        display: none;
+    }
+
+    .open .ouvrir {
+        display: none;
+    }
+
+    .open .fermer {
+        display: block;
+    }
+
+    .navbar-nav {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 90%;
+        height: 80%;
+        background: #000;
+        flex-direction: column;
+        padding: 2rem;
+        justify-content: flex-start;
+        transform: translateX(-100%);
+        transition: transform 1s;
+        margin-top:10%;
+    }
+
+    .navbar-nav>*{margin-left:5%;}
+
+    .hover-underline-animation{width:fit-content;}
+
+    .nav-item{
+        font-size: 1.5em;
+        margin-top: 10%;
+    }
+
+    .navbar-nav > * {
+        margin-left: 5%;
+    }
+
+    .hover-underline-animation {
+        width: fit-content;
+    }
+
+    .nav-item {
+        font-size: 1.5em;
+    }
+
+    .open .navbar-nav {
+        transform: translateX(0);
+    }
+
+    .footer-flex{width:70%;}
+}
