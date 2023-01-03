@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="883d1da7-077c-4aed-80c2-199b8bb1013e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CSS/accueil.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/accueil.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/competences.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/competences.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/formations.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/formations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/projets.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/projets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/shared_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/shared_css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/icon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/image2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competences.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/competences.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formations.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/formations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/projets.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IfS98y83eDVN8QZe0UPJjSlA1e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\morga\OneDrive\Bureau\Repositories Git\momodinoo.github.io\views" />
+      <recent name="C:\Users\morga\OneDrive\Bureau\Repositories Git\momodinoo.github.io\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="883d1da7-077c-4aed-80c2-199b8bb1013e" name="Changes" comment="" />
+      <created>1670570993320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670570993320</updated>
+      <workItem from="1670570994946" duration="399000" />
+      <workItem from="1670807553307" duration="85000" />
+      <workItem from="1672738560964" duration="682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
